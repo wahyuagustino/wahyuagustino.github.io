@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "wahyuagustino.github.io"
+      - "site/**"
 
 jobs:
   deploy:
